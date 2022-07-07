@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
     text-align: center;
@@ -38,3 +39,25 @@ body
 {
     font-size: 20px;
 }
+=======
+ body
+ {
+    color: crimson;
+    text-align: center;
+    font-family: "Arial";
+ }
+
+ #container h1
+ {
+    width: 70%;
+    padding:  1em;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;
+ }
+
+ #container h1
+ {
+    font-size: 20px;
+ }
+>>>>>>> 9df9a819d53dc4fe9e342339bc0a91214e926f00
