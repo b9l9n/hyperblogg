@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 esta es la vida y obra maestra de belen
 
 tiene 28 años y estudia programacion, viviendo en todo el mundo 
@@ -6,18 +5,8 @@ tiene 28 años y estudia programacion, viviendo en todo el mundo
 hoy es una gran estudiante
 
 en camara parece mas gorda pero no es tan gorda
-=======
-hola
 
-esta es la historia de vida de belen y hoy hablaremos de ella
+Master 1
 
-<<<<<<< HEAD
-tiene 28 añitos y vive en todo el mundo con el amor de su vida
-
-sigue siendo enana pero ya es delgada y hermosa 
-
-hoy es estudiante de programacion
-=======
 mañana nos ennforcaremos en su vida laboral
->>>>>>> cabecera
->>>>>>> 9df9a819d53dc4fe9e342339bc0a91214e926f00
+
